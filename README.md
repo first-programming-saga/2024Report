@@ -7,11 +7,12 @@
     - https://www.pref.saga.lg.jp/toukei/kiji003101414/index.html
     - https://www.pref.saga.lg.jp/toukei/kiji003101414/3_101414_309641_up_0nuzwblq.xlsx
 2. `census.ipynb`
-    - 男女別の人口比率を可視化する。
-    - https://www.e-stat.go.jp/stat-search/files?page=1&layout=datalist&toukei=00200521&tstat=000001136464&cycle=0&tclass1=000001136466&tclass2val=0&metadata=1&data=1
-    - https://www.e-stat.go.jp/stat-search/file-download?statInfId=000032142402&fileKind=0
+    - 九州各県の、年齢構成比を可視化する
+    - https://www.e-stat.go.jp/stat-search/files?page=1&layout=datalist&toukei=00200521&tstat=000001136464&cycle=0&tclass1=000001136466&stat_infid=000032142410&tclass2val=0&metadata=1&data=1
+    - https://www.e-stat.go.jp/stat-search/file-download?statInfId=000032142410&fileKind=0
 3. `attendance.ipynb`
     - 出欠表集計
+    - 「出欠」フォルダから、名前のついているファイルを読み込んで、出欠を集計する
 4. `sierpinski.ipynb`
     - Sierpinski gasket by random processes
 5. `onion.ipynb`
